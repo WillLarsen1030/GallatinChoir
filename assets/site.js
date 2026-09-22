@@ -173,4 +173,4 @@ function renderSchedule() {
   });
 }
 
-renderSchedule();
+if (monthControls && scheduleView) renderSchedule();
