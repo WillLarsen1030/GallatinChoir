@@ -55,7 +55,7 @@ const schedule = [
       choirEntry('Nov 16-17', 'Time TBA', 'Mid-State event', 'Selected performers', 'festival', 'Murfreesboro'),
       entry('Nov 18', '3:30-4:30 PM', 'Dynamos and Sophie / Ali / Lisa choreography', 'Choreography'),
       entry('Nov 19', '3:30-4:30 PM', 'Our Last Summer / Knowing Me, Knowing You', 'Male solos / duets'),
-      choirEntry('Nov 21', 'Time TBA', 'Winterfest Concert with WKU', 'Choir concert', 'concert', 'First United Methodist Church, Gallatin'),
+      choirEntry('Nov 22', 'Time TBA', 'Winterfest Concert with WKU', 'Choir concert', 'concert', 'First United Methodist Church, Gallatin'),
       entry('Nov 23-27', 'No school', 'Thanksgiving break', 'No rehearsal', 'break'),
       entry('Nov 30', '3:30-4:30 PM', 'Act 2 review and finale touch-up', 'Full cast'),
     ],
